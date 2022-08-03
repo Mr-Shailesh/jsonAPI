@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "datetime": "May 16, 2022 3:32:34 PM",
+      "body": "This is the First Post\n"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "May 16, 2022 3:32:59 PM",
+      "body": "This is the Second Post"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "May 16, 2022 3:33:27 PM",
+      "body": "This is the Third Post"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "datetime": "May 16, 2022 3:23:45 PM",
+      "body": "This is the Forth post"
+    },
+    {
+      "id": 5,
+      "title": "My 5th Post",
+      "datetime": "May 16, 2022 3:23:51 PM",
+      "body": "This is the Fifth post"
+    },
+    {
+      "id": 6,
+      "title": "My 6th Post",
+      "datetime": "May 16, 2022 3:24:11 PM",
+      "body": "This is the Sixth Post"
+    },
+    {
+      "id": 7,
+      "title": "My 7th Post",
+      "datetime": "May 16, 2022 3:24:35 PM",
+      "body": "This is the Seventh Post"
+    },
+    {
+      "id": 8,
+      "title": "My 8th Post",
+      "datetime": "May 16, 2022 3:26:02 PM",
+      "body": "This is the Eighth Post"
+    },
+    {
+      "id": 9,
+      "title": "My 9th Post",
+      "datetime": "May 16, 2022 3:26:29 PM",
+      "body": "This is the Ninth Post"
+    },
+    {
+      "id": 10,
+      "title": "My 10th Post",
+      "datetime": "May 16, 2022 3:27:02 PM",
+      "body": "This is the Tenth Post"
+    },
+    {
+      "id": 11,
+      "title": "Last Post",
+      "datetime": "June 15, 2022 3:30:36 PM",
+      "body": "This is the Last Post"
+    },
+    {
+      "id": 12,
+      "title": "Happy Birthday",
+      "datetime": "August 03, 2022 3:52:01 PM",
+      "body": "New Birthday Post :)"
+    }
+  ]
+}
