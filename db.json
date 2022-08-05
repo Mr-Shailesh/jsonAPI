@@ -73,4 +73,50 @@
       "body": "New Birthday Post :)"
     }
   ]
+},
+{
+  "user": [
+    {
+      "name": "Ankur Patel",
+      "email": "akp@narola.com",
+      "contact": "7085296341",
+      "address": "Europ",
+      "id": "gESe8Zv"
+    },
+    {
+      "name": "Shiv Mangal",
+      "email": "smb@gmail.com",
+      "contact": "9988989818",
+      "address": "Chandigarh",
+      "id": "-Zy0tOM"
+    },
+    {
+      "name": "Barry Allen The flash",
+      "email": "baf@gmail.com",
+      "contact": "7845129632",
+      "address": "Down-Town",
+      "id": "TDaymHQ"
+    },
+    {
+      "name": "Cisco Raymond",
+      "email": "cis@gmail.com",
+      "contact": "9855241633",
+      "address": "France",
+      "id": "LKs9SaV"
+    },
+    {
+      "name": "Shailesh                    ",
+      "email": "scg@narola.email",
+      "contact": "8733004453",
+      "address": "Surat",
+      "id": "5U6rkvf"
+    },
+    {
+      "name": "Rizwan",
+      "email": "rmm@gmail.com",
+      "contact": "7805062304",
+      "address": "Banglore",
+      "id": "a4PCfdT"
+    }
+  ]
 }
