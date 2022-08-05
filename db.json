@@ -1,5 +1,4 @@
-
-{ "posts": [
+"posts": [
     {
       "id": 1,
       "title": "My 1st Post",
@@ -73,6 +72,3 @@
       "body": "New Birthday Post :)"
     }
   ]
-}
-  
-
