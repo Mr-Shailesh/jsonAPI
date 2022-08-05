@@ -1,5 +1,5 @@
-[
-  "posts": [
+
+  posts: [
     {
       "id": 1,
       "title": "My 1st Post",
@@ -73,7 +73,7 @@
       "body": "New Birthday Post :)"
     }
   ],
-    "user": [
+   user: [
     {
       "name": "Ankur Patel",
       "email": "akp@narola.com",
@@ -103,7 +103,7 @@
       "id": "LKs9SaV"
     },
     {
-      "name": "Shailesh                    ",
+      "name": "Shailesh",
       "email": "scg@narola.email",
       "contact": "8733004453",
       "address": "Surat",
@@ -117,4 +117,4 @@
       "id": "a4PCfdT"
     }
   ]
-]
+
